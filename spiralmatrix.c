@@ -1,5 +1,5 @@
 
-//C code for Spiral matrix
+//C code for printing Spiral matrix of a given matrix
 
 
 #include <stdio.h>
