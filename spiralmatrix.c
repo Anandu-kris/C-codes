@@ -1,3 +1,7 @@
+
+//C code for Spiral matrix
+
+
 #include <stdio.h>
 
 void main()
